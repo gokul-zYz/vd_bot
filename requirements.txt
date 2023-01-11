@@ -1,5 +1,5 @@
 telebot
-os
+os-sys
 requests
 yt_dlp
 PIL
