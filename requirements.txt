@@ -1,0 +1,5 @@
+telebot
+os
+requests
+yt_dlp
+PIL
