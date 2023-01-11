@@ -2,4 +2,4 @@ telebot
 os-sys
 requests
 yt_dlp
-PIL
+Pillow
