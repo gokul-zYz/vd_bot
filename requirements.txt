@@ -1,5 +1,5 @@
 PyTelegramBotAPI
-
+telebot
 requests
 yt_dlp
 Pillow
